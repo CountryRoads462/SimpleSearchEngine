@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
